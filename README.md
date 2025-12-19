@@ -29,6 +29,10 @@ For use with Adafruit LiPoly/LiIon batteries only! Other batteries may have diff
 
 Batteries and QT Py are not included.
 
+<b>Revision History:
+
+* As of December 12, 2025 - </b> We added two breakout pads for the on/off switch for an external switch if desired. We also updated the PCB with Adafruit Pinguin to make a lovely and legible silkscreen.
+
 ### License
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
